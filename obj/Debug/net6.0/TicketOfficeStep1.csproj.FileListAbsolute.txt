@@ -1,0 +1,15 @@
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/bin/Debug/net6.0/TicketOfficeStep1
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/bin/Debug/net6.0/TicketOfficeStep1.deps.json
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/bin/Debug/net6.0/TicketOfficeStep1.runtimeconfig.json
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/bin/Debug/net6.0/TicketOfficeStep1.dll
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/bin/Debug/net6.0/TicketOfficeStep1.pdb
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/TicketOfficeStep1.csproj.AssemblyReference.cache
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/TicketOfficeStep1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/TicketOfficeStep1.AssemblyInfoInputs.cache
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/TicketOfficeStep1.AssemblyInfo.cs
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/TicketOfficeStep1.csproj.CoreCompileInputs.cache
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/TicketOfficeStep1.dll
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/refint/TicketOfficeStep1.dll
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/TicketOfficeStep1.pdb
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/TicketOfficeStep1.genruntimeconfig.cache
+/Users/jhenessholm/Projects/TicketOfficeStep1/TicketOfficeStep1/obj/Debug/net6.0/ref/TicketOfficeStep1.dll
